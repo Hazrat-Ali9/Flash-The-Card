@@ -31,3 +31,5 @@ export default function Card({ card, index, allCards }) {
     </div>
   );
 }
+
+// Cards 
